@@ -1,0 +1,17 @@
+# site title
+title: zhoubin's blog
+
+# github user
+user: jobn123
+
+# issue repo
+repo: blog
+
+# multi-author
+authors: zhoubin
+
+# per page
+per_page: 5
+
+#sandbox
+sandbox: false
